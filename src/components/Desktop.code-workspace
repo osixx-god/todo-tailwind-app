@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "Desktop",
+		"path": "../../.."
+	},
+	{
+		"name": "tailwind-tutorial",
+		"path": "../../../tailwind-tutorial"
+	},
+	{
+		"name": "todo-app-main",
+		"path": "../../../../Downloads/todo-app-main/todo-app-main"
+	}
+],
+  "settings": {}
+}
